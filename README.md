@@ -19,3 +19,5 @@ execute with:
 python3.11 train2.py
 
 python3.11 victor-K.py
+
+<a href="https://studio.korman.es/index.php/2024/08/08/ia-python3-11/">Development Site</a>
