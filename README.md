@@ -13,6 +13,10 @@ this code is the one that is responsible for taking a pre-made model in this cas
 <h3>File Victor-K.py:</h3>
 <br/>
 This code makes a chatbot application for IRC of the libera.chat network, connecting the bot in a channel you can talk to it by writing the prefix !pi and the question. Modify the connection parameters to your needs.
+<br/>
+<h3>File sphereye.py:</h3>
+this code does the function of irc bot reading everything that is said (phrases) that begin with + and saves them in the dataset-espanish.txt file, it also executes commands on the server system with the prefix of >python3.11 but only the user logged in as Master of the bot is authorized.
+<br/>
 
 execute with:
 
