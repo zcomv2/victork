@@ -20,9 +20,11 @@ this code does the function of irc bot reading everything that is said (phrases)
 
 execute with:
 
-python3.11 train2.py
+$>python3.11 train2.py
 
-python3.11 victor-K.py
+$>python3.11 victor-K.py
+
+$>python3.11 sphereye.py
 
 <h5>You find us in irc.libera.chat #parati </h5>
 
