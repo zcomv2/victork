@@ -28,4 +28,4 @@ $>python3.11 sphereye.py
 
 <h5>You find us in irc.libera.chat #parati </h5>
 
-<a href="https://studio.korman.es/index.php/2024/08/08/ia-python3-11/">Development Site</a>
+<a href="https://studio.korman.es/index.php/2024/08/08/ia-python3-11/">Development Site ES</a>
