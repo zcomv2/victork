@@ -21,7 +21,7 @@ this code does the function of irc bot reading everything that is said (phrases)
 This code does the function of talking through the terminal console shell with the created model, with this code queries are made to the created model.
 <br/><br/>
 
-execute with:
+<h3>execute with:</h3>
 
 $>python3.11 train2.py
 
