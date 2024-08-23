@@ -16,6 +16,9 @@ This code makes a chatbot application for IRC of the libera.chat network, connec
 <br/>
 <h3>File sphereye.py:</h3>
 this code does the function of irc bot reading everything that is said (phrases) that begin with + and saves them in the dataset-espanish.txt file, it also executes commands on the server system with the prefix of >python3.11 but only the user logged in as Master of the bot is authorized.
+<br/>
+<h3>File talk.py:</h3>
+This code does the function of talking through the terminal console shell with the created model, with this code queries are made to the created model.
 <br/><br/>
 
 execute with:
