@@ -29,6 +29,8 @@ $>python3.11 victor-K.py
 
 $>python3.11 sphereye.py
 
+$>python3.11 talk.py
+
 <h5>You find us in irc.libera.chat #parati </h5>
 
 <h4>Enter & connect to Chat:<a href="https://web.libera.chat/#parati">Here!</a></h4>
